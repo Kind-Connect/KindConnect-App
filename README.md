@@ -13,13 +13,21 @@ Kind Connect is a mobile app that helps users access essential resources like fo
 
 ## Product Spec
 
-### 1. User Features (Required and Optional)
+###  User Features (Required and Optional)
 
 **Required Features**
 
-1. GPS map to find nearby help
-2. Search filters(Food, shelter, mental health 
-3. Secure login or anonymous use 
+1. Resorce map
+2. Recipe Generator
+3. Community Support tools
+4. User friendly Navigation
+5. Ability to sign up and save general user info
+6. Ability to sign up and save volunteer info
+7. Ability to save favorite foods
+8. Ability to save food to your online pantry
+9. Ability to retrieve different recipes of interest
+10. Ability to retrieve different community help information
+
 
 **Optional Features**
 
