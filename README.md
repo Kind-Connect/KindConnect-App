@@ -67,10 +67,3 @@ Kind Connect is a mobile app that helps users access essential resources like fo
 
 <br>
 
-# Milestone 2 - Build Sprint 1 (Unit 8)
-
-## GitHub Project board
-
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
