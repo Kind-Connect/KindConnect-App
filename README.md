@@ -37,29 +37,48 @@ Kind Connect is a mobile app that helps users access essential resources like fo
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- Home Screen 
+  - Main menu for quick navigation to all features 
+- GPS Location Screen
+  - shows nearby food banks, shelters, and support services 
+- Recipe Generator Screen
+  - Suggests meals based on items user adds to their pantry
+- User Pantry Screen
+  - Users input or manage their pantry items
+- Saved Recipes Screen
+  - Users can save meal ideas to view and use later 
+    
 
 ### 3. Navigation
-
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home
+* Pantry
+* Map
+* Resources 
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- Login Screen
+  - Home Screen 
+  - Registration Screen 
+- Home Screen 
+  - GPS Location Screen 
+  - Recipe Generator
+  - Volunteer Sign Up Screen
+- GPS Location Screen
+  - Resource Details Screen
+  - Start Directions
+- User Pantry Screen
+  - Recipe Generator Screen
+- Recipe Generator Screen
+  - Saved Recipes Screen
+- Saved Recipes Screen
+   - Back to Pantry or Home
+- Volunteer Sign-Up Screen
+   - Confirmation/ Profile
+- Profile Screen
+  - Edit Profile/ Settings 
 
 ## Wireframes
 
