@@ -82,8 +82,9 @@ Kind Connect is a mobile app that helps users access essential resources like fo
 
 ## Wireframes
 
-<img width="894" height="401" alt="Screenshot 2025-10-29 at 4 14 50 PM" src="https://github.com/user-attachments/assets/ae536dc1-ba45-4057-8158-2fabffeb29d2" />
-" 
+
+<img width="889" height="399" alt="Screenshot 2025-10-29 at 4 18 17 PM" src="https://github.com/user-attachments/assets/47e7097e-008d-4553-8f8c-b75d14aa8143" />
+
 
 <br>
 
