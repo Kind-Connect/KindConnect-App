@@ -9,7 +9,10 @@ Kind Connect is a mobile app that helps users access essential resources like fo
 - **Story: Addresses the struggle many individuals face in finding help for food insecurity and and emotional challenges 
 - **Market: Useful for anyone in need, including families and individuals experiencing finacial hardship
 - **Habit: Encourages repeated use through resource updates, recipe suggestions, and ongoing communitb support features 
-- **Scope: Scalable to include more cities, states, and additional support services 
+- **Scope: Scalable to include more cities, states, and additional support services
+- 
+## Brain-Storming.md
+Url:https://hackmd.io/@QbWR7vk9SDePvvZ0Y8QnfQ/HJdicll1be
 
 ## Product Spec
 
