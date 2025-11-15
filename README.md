@@ -3,14 +3,13 @@ Kind Connect is a mobile app that helps users access essential resources like fo
 
 ## App Evaluation
 
-[Evaluation of your app across the following attributes]
-- **Category:Community support and resource assistance(Food, Shelter, Mental Health 
-- **Mobile: Designed as a mobile first app for easy access everywhere 
-- **Story: Addresses the struggle many individuals face in finding help for food insecurity and and emotional challenges 
-- **Market: Useful for anyone in need, including families and individuals experiencing finacial hardship
-- **Habit: Encourages repeated use through resource updates, recipe suggestions, and ongoing communitb support features 
-- **Scope: Scalable to include more cities, states, and additional support services
-- 
+ - **Category** : Community support and resource assistance(Food, Shelter, Mental Health 
+  - **Mobile**: Designed as a mobile first app for easy access everywhere 
+  - **Story**: Addresses the struggle many individuals face in finding help for food insecurity and and emotional challenges 
+ - **Market**: Useful for anyone in need, including families and individuals experiencing finacial hardship
+ - **Habit**: Encourages repeated use through resource updates, recipe suggestions, and ongoing communitb support features 
+ - **Scope**: Scalable to include more cities, states, and additional support services
+
 ## Brain-Storming.md
 Url:https://hackmd.io/@QbWR7vk9SDePvvZ0Y8QnfQ/HJdicll1be
 
@@ -93,9 +92,28 @@ Url:https://hackmd.io/@QbWR7vk9SDePvvZ0Y8QnfQ/HJdicll1be
 
 <br>
 
-### [BONUS] Digital Wireframes & Mockups
+## Milestone 2 - Build Sprint 1 
+## GitHub Project Board
+<p align="center">
+  <img src="https://i.imgflip.com/ac6gc9.gif" alt="Walkthrough GIF" style="max-width:100%; height:auto;" />
+</p>
 
-### [BONUS] Interactive Prototype
+## Issue Cards
+<p align="center">
+  <img src="https://i.imgflip.com/ac6gsp.gif" alt="Walkthrough GIF" style="max-width:100%; height:auto;" />
+</p>
 
-<br>
+## Issues worked on this sprint
+- created the home page
+- created the resource page
+- created the pantry page
+- created the map page
+- created the profile page
+  ## Build progress GIF
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://i.imgflip.com/ac5zlq.gif" alt="Walkthrough 1" style="max-width:23%; height:auto;" />
+  <img src="https://i.imgflip.com/ac64tu.gif" alt="Walkthrough 2" style="max-width:23%; height:auto;" />
+  <img src="https://i.imgflip.com/ac6g48.gif" alt="Walkthrough 3" style="max-width:23%; height:auto;" />
+  <img src="https://i.imgflip.com/ac6g92.gif" alt="Walkthrough 4" style="max-width:23%; height:auto;" />
+</div>
 
